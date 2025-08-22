@@ -1,0 +1,21 @@
+# Go build artifacts
+gosecret
+*.exe
+
+# Go test artifacts
+*.test
+*.prof
+
+# Go module cache
+go.sum
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
