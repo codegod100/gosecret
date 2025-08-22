@@ -1,6 +1,7 @@
 # Go build artifacts
 gosecret
 *.exe
+dist/
 
 # Go test artifacts
 *.test
